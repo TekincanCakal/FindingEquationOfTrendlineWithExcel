@@ -1,0 +1,10 @@
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\TrendLineFinder.csprojAssemblyReference.cache
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\Statistic.Properties.Resources.resources
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\TrendLineFinder.csproj.GenerateResource.cache
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\TrendLineFinder.csproj.CoreCompileInputs.cache
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\Statistic.exe
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\Statistic.pdb
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\TrendLineFinder.Main.resources
+C:\Users\Chasen\source\repos\Statistic\Statistic\bin\x86\Debug\Statistic.exe.config
+C:\Users\Chasen\source\repos\Statistic\Statistic\bin\x86\Debug\Statistic.exe
+C:\Users\Chasen\source\repos\Statistic\Statistic\bin\x86\Debug\Statistic.pdb

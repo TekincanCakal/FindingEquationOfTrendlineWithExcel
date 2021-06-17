@@ -1,0 +1,11 @@
+C:\Users\Chasen\source\repos\Statistic\Statistic\bin\x86\Debug\Statistic.exe.config
+C:\Users\Chasen\source\repos\Statistic\Statistic\bin\x86\Debug\Statistic.exe
+C:\Users\Chasen\source\repos\Statistic\Statistic\bin\x86\Debug\Statistic.pdb
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\Statistic.Form1.resources
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\Statistic.Form2.resources
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\Statistic.Properties.Resources.resources
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\Statistic.csproj.GenerateResource.cache
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\Statistic.csproj.CoreCompileInputs.cache
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\Statistic.exe
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\Statistic.pdb
+C:\Users\Chasen\source\repos\Statistic\Statistic\obj\x86\Debug\Statistic.csprojAssemblyReference.cache
